@@ -1,5 +1,5 @@
 #!/bin/bash
-# shadowsocksR/SSR一键安装教程
+# shadowsocksR/SSR一键安装
 # Author: hijk<https://hijk.art>
 #editor jachin
 
@@ -64,7 +64,7 @@ checkSystem() {
 
 getData() {
     PASSWORD=‘123456789www’
-	PORT=‘80’
+	PORT=‘3389’
     METHOD=’aes-256-cfb‘
     PROTOCOL=‘origin’
     OBFS=’plain‘
