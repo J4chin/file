@@ -1,7 +1,7 @@
 #!/bin/bash
 # shadowsocksR/SSR一键安装教程
 # Author: hijk<https://hijk.art>
-
+#Revised by seamanTX
 
 RED="\033[31m"      # Error message
 GREEN="\033[32m"    # Success message
