@@ -1,0 +1,42 @@
+#搜狐源huan：
+deb http://mirrors.sohu.com/ubuntu/ precise-updates main restricted
+deb-src http://mirrors.sohu.com/ubuntu/ precise-updates main restricted
+deb http://mirrors.sohu.com/ubuntu/ precise universe
+deb-src http://mirrors.sohu.com/ubuntu/ precise universe
+deb http://mirrors.sohu.com/ubuntu/ precise-updates universe
+deb-src http://mirrors.sohu.com/ubuntu/ precise-updates universe
+deb http://mirrors.sohu.com/ubuntu/ precise multiverse
+deb-src http://mirrors.sohu.com/ubuntu/ precise multiverse
+deb http://mirrors.sohu.com/ubuntu/ precise-updates multiverse
+deb-src http://mirrors.sohu.com/ubuntu/ precise-updates multiverse
+deb http://mirrors.sohu.com/ubuntu/ precise-backports main restricted universe multiverse
+deb-src http://mirrors.sohu.com/ubuntu/ precise-backports main restricted universe multiverse
+
+#网易源：
+
+deb http://mirrors.163.com/ubuntu/ precise-updates main restricted
+deb-src http://mirrors.163.com/ubuntu/ precise-updates main restricted
+deb http://mirrors.163.com/ubuntu/ precise universe
+deb-src http://mirrors.163.com/ubuntu/ precise universe
+deb http://mirrors.163.com/ubuntu/ precise-updates universe
+deb-src http://mirrors.163.com/ubuntu/ precise-updates universe
+deb http://mirrors.163.com/ubuntu/ precise multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise multiverse
+deb http://mirrors.163.com/ubuntu/ precise-updates multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise-updates multiverse
+deb http://mirrors.163.com/ubuntu/ precise-backports main restricted universe multiverse
+deb-src http://mirrors.163.com/ubuntu/ precise-backports main restricted universe multiverse
+
+
+#阿里云源：
+
+deb http://mirrors.aliyun.com/ubuntu/ precise main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ precise main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ precise-security main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ precise-security main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ precise-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ precise-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ precise-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ precise-backports main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ precise-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ precise-proposed main restricted universe multiverse
