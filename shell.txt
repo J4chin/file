@@ -1,0 +1,12 @@
+#换源
+
+sudo cat /etc/apt/soruces.txt >>/etc/apt/sources.list
+
+#配ip
+ifconfig eth0 down
+ifconfig eth0 192.168.0.107 #ip配置
+ifconfig eth0 hw ether 00:AA:BB:CC:DD:EE #改mac地址
+ifconfig eth0 up
+#安装组件
+
+#解压安装依赖
